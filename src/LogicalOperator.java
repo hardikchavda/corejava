@@ -1,4 +1,9 @@
 
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 class LogicalOperator {
 	public static void main(String[] args) {
 

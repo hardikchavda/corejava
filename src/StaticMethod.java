@@ -1,4 +1,9 @@
 
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 public class StaticMethod {
 
 	static int a, b, a2, b2; // Class Variables/Class Member

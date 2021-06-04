@@ -1,3 +1,9 @@
+
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 import java.io.*;
 
 public class FileOutputStreamEx {

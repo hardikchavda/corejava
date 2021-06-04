@@ -1,3 +1,9 @@
+
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 class MyClass {
 	// Your New Account
 	MyClass(double _baL, String _passbooK, String _namE, String _kyC) {

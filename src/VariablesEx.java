@@ -1,3 +1,9 @@
+
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 //Variables and Rules
 public class VariablesEx {
 	public static void main(String arg[]) {

@@ -1,3 +1,9 @@
+
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 // if base class is derived only once than it is Single/Simple Inheritance
 
 class Emp{

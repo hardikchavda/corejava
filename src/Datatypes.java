@@ -1,3 +1,9 @@
+
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 //Test the sizes of Primitive Datatypes with their classes.
 //Deviding your datatype with 8 bits = 1 byte .
 class Datatypes {	

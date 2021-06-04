@@ -1,4 +1,9 @@
 
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 public class MethodArrayReferencing {
 	static void simple(int a) {
 		a = 98;

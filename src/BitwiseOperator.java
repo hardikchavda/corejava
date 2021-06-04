@@ -1,4 +1,9 @@
 
+/**
+ * @author Er. Hardik Chavda
+ * https://t.me/hardikchavda
+ * 
+ */
 class BitwiseOperator {
 	public static void main(String[] args) {
 		System.out.println("Bitwise Operator");
