@@ -16,7 +16,7 @@ public class FileOutputStreamEx {
 		// INPUT
 		// We Write Here
 		FileOutputStream fos = null;
-		String s = "Welcome to Streams";		
+		String s = "Welcome to Streams 2020";		
 		byte b[] = s.getBytes();
 		try {
 			fos = new FileOutputStream("Data.txt");
